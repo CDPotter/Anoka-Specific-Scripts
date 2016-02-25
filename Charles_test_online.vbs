@@ -1,4 +1,4 @@
-msgbox "this worked!"
+
 'STATS GATHERING----------------------------------------------------------------------------------------------------
 name_of_script = "BULK - MAIN MENU.vbs"
 start_time = timer
